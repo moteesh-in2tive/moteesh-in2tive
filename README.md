@@ -1,4 +1,3 @@
-Hi there,
 Passionate about technology and its transformative power, I've embarked on an exhilarating journey that spans a multitude of realms within the tech landscape. My odyssey began with scripting and kernel development, gradually evolving as I embraced the dynamic landscape of microservices catalyzed by the container revolution.
 
 My voyage has been rich and diverse, as I've navigated through an array of technologies including Python, Java, jQuery, C, Unix Kernel, Device Drivers, ZFS File System, NFS File System, Golang Microservices, Kubernetes, Prometheus, Cortex, Thanos, Cassandra, Ruby on Rails, Postgres, React, MongoDB, MySQL, Blockchain, Ethereum, Solidity, and beyond.
